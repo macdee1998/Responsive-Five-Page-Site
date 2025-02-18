@@ -126,6 +126,7 @@
     .form-container{
         margin: 0 auto;
         background-color: #ffffff;
+        color: #131418;
     }
     .form {
         display: flex;
